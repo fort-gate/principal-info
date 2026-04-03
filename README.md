@@ -115,7 +115,7 @@ User initiates a transaction on Stellar
 
 **To get access:**
 
-1. **Contact our team** — Reach out at [hello@fortgate.io](mailto:hello@fortgate.io) to schedule a demo and discuss your institution's compliance requirements.
+1. **Contact our team** — Reach out at [hello@fortgate.io](mailto:hello@fortgate.xyz) to schedule a demo and discuss your institution's compliance requirements.
 2. **Onboarding** — Our team configures your environment, integrates your Stellar accounts, and sets up your baseline compliance policies.
 3. **Dashboard Access** — Your compliance team gets access to the Fortgate Dashboard to manage policies, monitor transactions, and generate reports.
 4. **Go Live** — Start transacting on Stellar with full AML coverage from day one.
@@ -169,10 +169,10 @@ Fortgate is a proprietary platform. We are not accepting open-source contributio
 
 ## Contact & Links
 
-- 🌐 Website: [fortgate.io](https://fortgate.io)
-- 📧 Enterprise: [hello@fortgate.io](mailto:hello@fortgate.io)
-- 🐦 Twitter/X: [@fortgate](https://twitter.com/fortgate)
-- 💼 LinkedIn: [Fortgate](https://linkedin.com/company/fortgate)
+- 🌐 Website: [fortgate.io](https://fortgate.xyz)
+- 📧 Enterprise: [hello@fortgate.io](mailto:hello@fortgate.xyz)
+- 🐦 Twitter/X: [@fortgate](https://twitter.com/fortgateAML)
+- 💼 LinkedIn: [Fortgate](https://linkedin.com/company/fortgateAML)
 
 ---
 
